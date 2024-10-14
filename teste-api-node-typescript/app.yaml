@@ -1,0 +1,5 @@
+runtime: nodejs20
+service: "api-portal-grancoffee-teste"
+
+env_variables:
+  PORT: "8080"
